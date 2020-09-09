@@ -1,16 +1,36 @@
-### Hi there 👋
+```kotlin
+  
+  val profile = GithubUser {
+      id = "dybarsky"
+      name = "Maksym Dybarskyi"
+      joined = date("18-09-2011")
+      location = 52.52 to 13.46
+      experience {
+          android(9, YEAR)
+          kotlin(4, YEAR)
+          java(11, YEAR)
+      }
+  }
+   
+```
 
-<!--
-**dybarsky/dybarsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hello world!
+Welcome to my Github profile.  
+I am **Maksym** and I love programming. Originally from <img width="14" height="14" src="https://image.flaticon.com/icons/svg/197/197572.svg"/> **Ukraine**, I'm living in <img width="14" height="14" src="https://image.flaticon.com/icons/svg/197/197571.svg"/> **Berlin, Germany**.  
+My expertise is <img width="14" height="14" src="https://image.flaticon.com/icons/svg/226/226770.svg"/> _android_, but I also build _robots_ on my free time.   
+More info 👉 &nbsp;[http://dybarsky.info](http://dybarsky.info)
 
-Here are some ideas to get you started:
+#### Technologies & tools
+![Android](https://img.shields.io/badge/-Android-262626?style=flat-square&logo=android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-262626?style=flat-square&logo=kotlin)
+![Java](https://img.shields.io/badge/-Java-262626?style=flat-square&logo=java)
+![Git](https://img.shields.io/badge/-Git-262626?style=flat-square&logo=git)
+![Gradle](https://img.shields.io/badge/-Gradle-262626?style=flat-square&logo=gradle)
+![Firebase](https://img.shields.io/badge/-Firebase-262626?style=flat-square&logo=firebase)
+![Linux](https://img.shields.io/badge/-Linux-262626?style=flat-square&logo=linux)
+![Oculus](https://img.shields.io/badge/-Oculus-262626?style=flat-square&logo=oculus)
+![Robotics](https://img.shields.io/badge/-Robotics-262626?style=flat-square&logo=arduino)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My Github statistics
+[![Github stats](https://github-readme-stats.vercel.app/api?username=dybarsky&count_private=true&show_icons=true&line_height=25&include_all_commits=true&hide=contribs&hide_title=true&title_color=ffffff&bg_color=2c2d2e&text_color=b1aea6&icon_color=f0f0f0)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dybarsky&theme=tokyonight&layout=compact&hide_title=true&bg_color=2c2d2e&text_color=b1aea6)](https://github.com/anuraghazra/github-readme-stats)
