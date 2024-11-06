@@ -6,10 +6,10 @@
                                           joined = date("18-09-2011")
                                           location = 52.52 to 13.46
                                           experience {
-                                              android(9, YEAR)
-                                              kotlin(4, YEAR)
+                                              android(15, YEAR)
+                                              kotlin(7, YEAR)
                                               java(11, YEAR)
-                                              c(0, YEAR)
+                                              c(1, YEAR)
                                           }
                                       }
    
@@ -17,8 +17,8 @@
 
 #### Hello world!
 Welcome to my Github profile.  
-I am **Maksym** and I love programming. Originally from <img width="14" height="14" src="https://image.flaticon.com/icons/svg/197/197572.svg"/> **Ukraine**, I'm living in <img width="14" height="14" src="https://image.flaticon.com/icons/svg/197/197571.svg"/> **Berlin, Germany**.  
-My expertise is <img width="14" height="14" src="https://image.flaticon.com/icons/svg/226/226770.svg"/> _android_, but I also build _robots_ on my free time.   
+I am **Maksym** and I love programming. Originally from <img width="14" height="14" src="https://raw.githubusercontent.com/dybarsky/dybarsky/media/ukraine.png"/> **Ukraine**, I'm living in <img width="14" height="14" src="https://raw.githubusercontent.com/dybarsky/dybarsky/media/germany.png"/> **Berlin, Germany**.  
+My expertise is <img width="14" height="14" src="https://raw.githubusercontent.com/dybarsky/dybarsky/media/android.png"/> _android_, but I also build _robots_ on my free time.   
 More info 👉 &nbsp;[http://dybarsky.info](http://dybarsky.info)
 
 #### Technologies & tools
