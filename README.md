@@ -18,7 +18,7 @@
 #### Hello world!
 Welcome to my Github profile.  
 I am **Maksym** and I love programming. Originally from <img width="14" height="14" src="https://raw.githubusercontent.com/dybarsky/dybarsky/master/media/ukraine.png"/> **Ukraine**, I'm living in <img width="14" height="14" src="https://raw.githubusercontent.com/dybarsky/dybarsky/master/media/germany.png"/> **Berlin, Germany**.  
-My expertise is <img width="14" height="14" src="https://raw.githubusercontent.com/dybarsky/dybarsky/master/media/android.png"/> _android_, but I also build <img width="14" height="14" src="https://raw.githubusercontent.com/dybarsky/dybarsky/master/media/robot.png"/> _robots_ on my free time.   
+My expertise is <img width="14" height="14" src="https://raw.githubusercontent.com/dybarsky/dybarsky/master/media/android.png"/> _android_, but I also build <img width="14" height="14" src="https://raw.githubusercontent.com/dybarsky/dybarsky/master/media/robot.png"/> _robots_ and other electronic devices on my free time.   
 More info 👉 &nbsp;[http://dybarsky.info](http://dybarsky.info)
 
 #### Technologies & tools
