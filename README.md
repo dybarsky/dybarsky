@@ -15,11 +15,6 @@
    
 ```
 
-#### Hello world!
-Welcome to my Github profile.  
-I am **Maksym** and I love programming. Originally from <img width="14" height="14" src="https://raw.githubusercontent.com/dybarsky/dybarsky/master/media/ukraine.png"/> **Ukraine**, I'm living in <img width="14" height="14" src="https://raw.githubusercontent.com/dybarsky/dybarsky/master/media/germany.png"/> **Berlin, Germany**.  
-My expertise is <img width="14" height="14" src="https://raw.githubusercontent.com/dybarsky/dybarsky/master/media/android.png"/> _android_, but I also build <img width="14" height="14" src="https://raw.githubusercontent.com/dybarsky/dybarsky/master/media/robot.png"/> _robots_ and other electronic devices on my free time.   
-
 #### Technologies & tools
 ![Android](https://img.shields.io/badge/-Android-262626?style=flat-square&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-262626?style=flat-square&logo=kotlin)
